@@ -10,7 +10,7 @@ Use the URL: https://fardinatabassum.github.io/Challenge-5-Work-Day-Scheduler/
 
 ## Usage
 
-![Challenge-5-Work-Day-Schduler](./assets/images/webpage%20screenshot.png
+![Challenge-5-Work-Day-Schduler](./assets/images/webpage%20screenshot.png)
 
 The assets file contains css used to style the webpage and the js used to provide functionality. Opening the index.html file or clicking the url will direct the users to the work day scheduler webpage. Users can then input their schedule and click the save button to save their schedule. Visiting the webpage again will display the user will their saved schedules.
 
